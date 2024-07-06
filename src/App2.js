@@ -5,7 +5,6 @@ import React, {
   createContext,
   useRef,
 } from 'react';
-import { QrReader } from 'react-qr-reader';
 import { QRCodeSVG } from 'qrcode.react';
 import { v4 as uuidv4 } from 'uuid';
 import { Button } from './components/ui/button';
